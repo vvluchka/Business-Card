@@ -1,0 +1,10 @@
+.footer{
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  height: 64px;
+  background-color: #161619;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding-top: 19px;
+}

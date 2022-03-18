@@ -1,0 +1,76 @@
+.userAvatar{
+  max-width: 317px;
+  max-height: 317px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-bottom: 21px;
+}
+
+.username{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 6px;
+}
+
+.vacation{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 15px;
+  text-align: center;
+  color: #F3BF99;
+}
+
+.link{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  text-align: center;
+  color: #F5F5F5;
+  text-decoration: none;
+}
+
+.buttons{
+  margin-top: 15px;
+  display: flex;
+  gap: 17px;
+  justify-content: center;
+  list-style: none;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.infoButtons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 115px;
+  height: 34px;
+  padding: 9px 13px;
+  gap: 10px;
+  text-decoration: none;
+}
+
+#emailBtn , #emailBtn :visited {
+  color: #374151;
+  background-color:#FFFFFF ;
+  border: 1px solid #D1D5DB;
+  border-radius: 6px;
+}
+
+
+#linkedInBtn , #linkedInBtn :visited{
+  background-color: #5093E2;
+  color: #FFFFFF;
+  text-decoration: none;
+  border-radius: 6px;
+}
